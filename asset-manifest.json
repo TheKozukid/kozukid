@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/kozukid/static/js/main.a79af9e0.js",
-    "index.html": "/kozukid/index.html",
-    "main.a79af9e0.js.map": "/kozukid/static/js/main.a79af9e0.js.map"
+    "main.js": "./static/js/main.a79af9e0.js",
+    "index.html": "./index.html",
+    "main.a79af9e0.js.map": "./static/js/main.a79af9e0.js.map"
   },
   "entrypoints": [
     "static/js/main.a79af9e0.js"
